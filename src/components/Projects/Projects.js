@@ -37,8 +37,8 @@ function Projects() {
               isBlog={false}
               title="DSC Website"
               description="Contributor of the website.Made with React JS and Firebase."
-              ghLink="https://github.com/zakie2003/dsc-site"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/zakie2003/Dsc-Club"
+              demoLink="https://cool-frangollo-073003.netlify.app"
             />
           </Col>
 
